@@ -19,7 +19,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": ">=7.1",
+    "php": ">=7.3",
     "ext-json": "*",
     "nesbot/carbon": "^2.28",
     "guzzlehttp/guzzle": "^7.0"
